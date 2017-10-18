@@ -1,2 +1,0 @@
-# haejin
-haejin analysis
